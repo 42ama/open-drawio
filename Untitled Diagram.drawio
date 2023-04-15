@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T11:26:57.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IasOr7wzlhsetbbNnuN3" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T11:40:37.283Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TXP07NuAH7aiOe1eh8R5" version="21.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1539" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,9 @@
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-5" target="xAVLKOwbk4JyC8eKmy-N-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-5" target="xAVLKOwbk4JyC8eKmy-N-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-5" value="Меркантилизм&lt;br&gt;&lt;br&gt;10 ЧЕЛ 20 ЗЕРН&lt;br&gt;&lt;br&gt;Разблокирует указ Торговать&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="880" width="120" height="110" as="geometry" />
         </mxCell>
@@ -113,7 +116,7 @@
           <mxGeometry x="-370" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-30" value="Указы появляются в порядке разблокировки" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-400" y="565" width="120" height="40" as="geometry" />
+          <mxGeometry x="-450" y="610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-31" value="Указ Трейдинг&lt;br&gt;Кд&amp;nbsp; 1&amp;nbsp;сек" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="525" width="120" height="40" as="geometry" />
@@ -142,7 +145,10 @@
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-37" value="Sanitation&lt;br&gt;&lt;br&gt;10 ЧЕЛ 30 ДЕНЕГ&lt;br&gt;&lt;br&gt;Люди +0.5 в сек" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="1410" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xAVLKOwbk4JyC8eKmy-N-39" value="Tenements&lt;br&gt;&lt;br&gt;20 ЧЕЛ 75 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает максимум людей (+)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-39" target="xAVLKOwbk4JyC8eKmy-N-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-39" value="Tenements&lt;br&gt;&lt;br&gt;20 ЧЕЛ 75 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает максимум людей (+40)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="1560" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-40" value="Opulence&lt;br&gt;&lt;br&gt;100 ДЕНЕГ&lt;br&gt;&lt;br&gt;Разблокирует указ JUBILEE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -154,11 +160,50 @@
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-52" value="Harvest&lt;br&gt;&lt;br&gt;100 АРМИИ 100 ЗНАНИЙ&lt;br&gt;&lt;br&gt;Начинает харвеситить ???" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="1970" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-57" target="xAVLKOwbk4JyC8eKmy-N-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-57" target="xAVLKOwbk4JyC8eKmy-N-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-57" target="xAVLKOwbk4JyC8eKmy-N-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-57" value="Writing&lt;br&gt;&lt;br&gt;10 ЧЕЛ 100 ДЕНЕГ 50 ЗЕРН&lt;br&gt;&lt;br&gt;Разблокирует указ Построить школу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="890" width="120" height="110" as="geometry" />
+          <mxGeometry x="760" y="890" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-59" value="Corporations&lt;br&gt;&lt;br&gt;10 ЧЕЛ 60 АРМИИ 100 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает деньги на +0.2 в секу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="1150" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-61" target="xAVLKOwbk4JyC8eKmy-N-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-61" value="Standing Army&lt;br&gt;&lt;br&gt;50 ЧЕЛ 75 ВЕРЫ&lt;br&gt;&lt;br&gt;Увеличивает максимум армии(+50)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="1560" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-63" value="Military Training&lt;br&gt;&lt;br&gt;50 ЧЕЛ 25 Армии&lt;br&gt;&lt;br&gt;Армия +0,2 сек" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="1560" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-64" value="Указ Купить рабов&lt;br&gt;Кд&amp;nbsp; 1&amp;nbsp;сек" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="585" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-65" value="Указ Джубили&lt;br&gt;Кд&amp;nbsp; 30 сек" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-130" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-66" value="Можно сделать указ на ресурсы когда у тебя их максимум" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-450" y="670" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-68" value="&lt;i&gt;Технологии в этом блоке разблокируются сразу и забивают очередь&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1530" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-70" value="Domesticated Crops&lt;br&gt;&lt;br&gt;10 ЧЕЛ 80 ЗНАНИЯ 50 ЗЕРН&lt;br&gt;&lt;br&gt;Зерно +0.2 в сек" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="890" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-72" value="Banking&lt;br&gt;&lt;br&gt;10 ЧЕЛ 50 ЗНАНИЯ 150 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличвивает максимум денег (+150 )" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="1020" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-73" value="Urban Planning&lt;br&gt;&lt;br&gt;20 ЧЕЛ 25 ЗНАНИЯ&amp;nbsp;&lt;br&gt;&lt;br&gt;Увеличвивает максимум людей (+140)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="940" y="1160" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
