@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T20:02:24.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="a8YqCyanXJ2C3tq_pRXW" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T18:12:35.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oMy-he1OUoN12683Fiyz" version="21.1.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1861" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-1" value="Threshing&lt;br&gt;&lt;br&gt;10 ЧЕЛ 10 ЗЕРН&lt;br&gt;&lt;br&gt;Удваивает скорость прозиводства всех ферм производящих ЗЕРНО" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="190" y="290" width="120" height="120" as="geometry" />
+          <mxGeometry x="210" y="60" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-2" target="xAVLKOwbk4JyC8eKmy-N-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-2" value="Религия&lt;br&gt;&lt;br&gt;15 ЧЕЛ 10 ЗЕРН&lt;br&gt;&lt;br&gt;Разблокирует указ Построить церковь&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="354" y="450" width="120" height="110" as="geometry" />
+          <mxGeometry x="210" y="450" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-5" target="xAVLKOwbk4JyC8eKmy-N-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="210" y="880" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-7" value="Pottery&lt;br&gt;&lt;br&gt;10 ЧЕЛ 20 ЗЕРН&lt;br&gt;&lt;br&gt;Увеличивает максимальную емкость зерена (+40)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="290" width="120" height="120" as="geometry" />
+          <mxGeometry x="540" y="60" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-9" value="Моноатеизм&lt;br&gt;&lt;br&gt;1 ЧЕЛ 20 ВЕР&lt;br&gt;&lt;br&gt;Скорость роста веры +1,0 в сек" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="200" width="120" height="110" as="geometry" />
@@ -128,37 +128,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-33" value="Мегацеркви&lt;br&gt;&lt;br&gt;10 ЧЕЛ 75 ВЕР 100 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает максимум веры (+125)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="890" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="880" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-34" value="Storerooms&lt;br&gt;&lt;br&gt;20 ЧЕЛ 20 ЗЕРН 40 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает максимум зерна (+140)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1010" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1010" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-35" target="xAVLKOwbk4JyC8eKmy-N-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-35" value="Minting&lt;br&gt;&lt;br&gt;10 ЧЕЛ 60 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает деньги на +0.1 в секу" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1150" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1140" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-36" value="Казна&lt;br&gt;&lt;br&gt;10 ЧЕЛ 50 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает максимум денег(+100)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1270" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1270" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-37" value="Sanitation&lt;br&gt;&lt;br&gt;10 ЧЕЛ 30 ДЕНЕГ&lt;br&gt;&lt;br&gt;Люди +0.5 в сек" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1410" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1410" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-39" target="xAVLKOwbk4JyC8eKmy-N-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-39" value="Tenements&lt;br&gt;&lt;br&gt;20 ЧЕЛ 75 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает максимум людей (+40)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1560" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1560" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-40" value="Opulence&lt;br&gt;&lt;br&gt;100 ДЕНЕГ&lt;br&gt;&lt;br&gt;Разблокирует указ JUBILEE" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1699" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1699" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-49" value="Slavery&lt;br&gt;&lt;br&gt;10 АРМИ&lt;br&gt;&lt;br&gt;Разблокирует указ BUY SLAVES" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1840" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1840" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-52" value="Harvest&lt;br&gt;&lt;br&gt;100 АРМИИ 100 ЗНАНИЙ&lt;br&gt;&lt;br&gt;Начинает харвеситить ???" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="1970" width="120" height="110" as="geometry" />
+          <mxGeometry x="540" y="1970" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-57" target="xAVLKOwbk4JyC8eKmy-N-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -173,16 +173,16 @@
           <mxGeometry x="760" y="890" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-59" value="Corporations&lt;br&gt;&lt;br&gt;10 ЧЕЛ 60 АРМИИ 100 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает деньги на +0.2 в секу" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="1150" width="120" height="110" as="geometry" />
+          <mxGeometry x="760" y="1150" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-61" target="xAVLKOwbk4JyC8eKmy-N-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-61" value="Standing Army&lt;br&gt;&lt;br&gt;50 ЧЕЛ 75 ВЕРЫ&lt;br&gt;&lt;br&gt;Увеличивает максимум армии(+50)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="1560" width="120" height="110" as="geometry" />
+          <mxGeometry x="760" y="1560" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-63" value="Military Training&lt;br&gt;&lt;br&gt;50 ЧЕЛ 25 Армии&lt;br&gt;&lt;br&gt;Армия +0,2 сек" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="720" y="1560" width="120" height="110" as="geometry" />
+          <mxGeometry x="940" y="1560" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-64" value="Указ Купить рабов&lt;br&gt;Кд&amp;nbsp; 1&amp;nbsp;сек" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-130" y="585" width="120" height="40" as="geometry" />
