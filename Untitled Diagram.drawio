@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T16:27:38.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="euqWLsZtk1P7ySlLtbki" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T16:32:09.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SkGy1wp0AFN0yQPyjBZW" version="21.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1861" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-68" value="&lt;i&gt;Технологии в этом блоке разблокируются сразу и забивают очередь&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="1530" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xAVLKOwbk4JyC8eKmy-N-70" value="Domesticated Crops&lt;br&gt;&lt;br&gt;10 ЧЕЛ 80 ЗНАНИЯ 50 ЗЕРН&lt;br&gt;&lt;br&gt;Зерно +0.2 в сек" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-70" value="Domesticated Crops&lt;br&gt;&lt;br&gt;10 ЧЕЛ 80 ЗНАНИЯ 50 ЗЕРН&lt;br&gt;&lt;br&gt;Зерно +0.4 в сек" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="940" y="890" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-72" value="Banking&lt;br&gt;&lt;br&gt;10 ЧЕЛ 50 ЗНАНИЯ 150 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличвивает максимум денег (+150 )" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
