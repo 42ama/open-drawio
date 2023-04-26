@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T18:12:35.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="oMy-he1OUoN12683Fiyz" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T16:27:38.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="euqWLsZtk1P7ySlLtbki" version="21.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1861" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-35" target="xAVLKOwbk4JyC8eKmy-N-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xAVLKOwbk4JyC8eKmy-N-35" value="Minting&lt;br&gt;&lt;br&gt;10 ЧЕЛ 60 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает деньги на +0.1 в секу" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-35" value="Minting&lt;br&gt;&lt;br&gt;10 ЧЕЛ 60 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает деньги на +0.2&amp;nbsp;&amp;nbsp;в секу" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="540" y="1140" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-36" value="Казна&lt;br&gt;&lt;br&gt;10 ЧЕЛ 50 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает максимум денег(+100)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -172,7 +172,7 @@
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-57" value="Writing&lt;br&gt;&lt;br&gt;10 ЧЕЛ 100 ДЕНЕГ 50 ЗЕРН&lt;br&gt;&lt;br&gt;Разблокирует указ Построить школу" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="890" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="xAVLKOwbk4JyC8eKmy-N-59" value="Corporations&lt;br&gt;&lt;br&gt;10 ЧЕЛ 60 АРМИИ 100 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает деньги на +0.2 в секу" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="xAVLKOwbk4JyC8eKmy-N-59" value="Corporations&lt;br&gt;&lt;br&gt;10 ЧЕЛ 60 АРМИИ 100 ДЕНЕГ&lt;br&gt;&lt;br&gt;Увеличивает деньги на +0.4&amp;nbsp;в секу" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="1150" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xAVLKOwbk4JyC8eKmy-N-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xAVLKOwbk4JyC8eKmy-N-61" target="xAVLKOwbk4JyC8eKmy-N-63" edge="1">
